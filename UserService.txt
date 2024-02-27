@@ -1,2 +1,5 @@
 add user to the db ...
 then checking if he is verfied or not 
+
+
+create an avatar for the user 
